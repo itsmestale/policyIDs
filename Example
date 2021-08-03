@@ -1,0 +1,9 @@
+{
+    "project": "SpaceBudz",
+    "tags": [
+        "SpaceBud"
+    ],
+    "policies": [
+        "exampleSpaceBudPolicy",
+    ]
+}
