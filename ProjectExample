@@ -1,0 +1,11 @@
+{
+    "project": "ProjectExample",
+    "tags": [
+        "ProjectExample"
+    ],
+    "policies": [
+        "policy1",
+        "policy2",
+        "policy3
+    ]
+}
